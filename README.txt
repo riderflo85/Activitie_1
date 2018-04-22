@@ -5,7 +5,7 @@ Date de création: 21/04/2018
 Créateur: Florent
 
 ======================================================
-						INTRODUCTION
+				INTRODUCTION
 
 Avec se programme vous pourrez piloter deux moteur pas à pas avec une télécommande infrarouge
 
@@ -16,7 +16,7 @@ Seuls pré-requis:
 	-Ajouter les librairies à vôtre logiciel arduino (IRremote et Stepper)
 
 =======================================================
-						UTILISATION
+				UTILISATION
 
 ATTENTION, l'utilisation de se programme nécessite la modification des scripts .ino. Si vous voulez utiliser se programme vous devez l'adapter en fonction de vôtre situation, car il est configurer pour mon cas personnel en utilisant une télécommande infrarouge qui sera pas forcément la même pour vous. Le nombre de pas des moteurs ainsi que les conditions de sécurités seront différentes pour vous. C'est pour cela qu'il y a un script de test pour adapter vos réglages, un script final qui sera le script que vous devrez téléversser une fois vôtre configuration fini et un script de mesure qui vous servira à mesurer des fréquences infrarouge pour paramétrer votre futur télécommande avec vôtre récepteur infrarouge.
 
