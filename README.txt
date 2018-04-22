@@ -29,3 +29,5 @@ Composant nécessaire:
 	  Des câbles
 
 Pour utiliser se script vous devez modifier les valeurs de nombre de pas des moteurs ainsi que les valeurs infrarouge.
+
+Les commantaires dans les scripts sont écrits pour mon cas personnel. A vous de les modifiers en fonction de votre situation.
